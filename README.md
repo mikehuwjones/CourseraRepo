@@ -1,2 +1,2 @@
 # CourseraRepo
-COurser code stuff
+Coursera code stuff 
